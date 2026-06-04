@@ -31,8 +31,8 @@ Modern streaming-style web app for browsing movies, upcoming releases, and TV se
 ### Install & run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movies-hub.git
-cd movies-hub
+git clone https://github.com/mennaa7med/movie-site.git
+cd movie-site
 npm install
 npm run dev
 ```
