@@ -2,6 +2,8 @@
 
 Modern streaming-style web app for browsing movies, upcoming releases, and TV series. Built with **React 19**, **Vite**, and **React Router**.
 
+**Live demo:** https://mennaa7med.github.io/movie-site/
+
 ## Features
 
 - Hero slider with featured titles (Swiper)
